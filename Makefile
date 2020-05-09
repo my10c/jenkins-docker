@@ -3,7 +3,7 @@ include include/makefile.inc
 
 all:
 	@echo "\n\t *** valid options are: build run start stop status shell ***"
-	@echo "\t *** use these options with caution: clean clean-all ***\n"
+	@echo "\t *** use these options with caution: clean ***\n"
 
 build: 
 	@echo "\t *** build image using file: $(DOCKERFILE) ***\n"
