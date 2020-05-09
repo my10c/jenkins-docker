@@ -1,0 +1,96 @@
+http://updates.jenkins-ci.org/download/plugins/lastest/
+
+anything-goes-formatter:anything-goes-formatter:
+
+AnsiColor:ansicolor:
+
+built-on-column:built-on-column:
+
+Branch API Plugin:branch-api:
+
+Build Blocker Plugin:build-blocker-plugin:
+
+Build Cause Run Condition Plugin:build-cause-run-condition:
+
+Build Notifications Plugin:build-notifications:
+
+Build Pipeline Plugin:build-pipeline-plugin:
+
+Build View Column Plugin:build-view-column:
+
+Command Agent Launcher Plugin:command-launcher:
+
+Configure Job Column Plugin:configure-job-column-plugin:
+
+Console Column Plugin:console-column-plugin:
+
+Custom Job Icon plugin:custom-job-icon:
+
+Custom View Tabs Plugin:custom-view-tabs:
+
+Dashboard View:dashboard-view:
+
+description setter plugin:description-setter:
+
+Delivery Pipeline Plugin:delivery-pipeline-plugin:
+
+Docker plugin:doktor:
+
+Extended Choice Parameter Plug-In:extended-choice-parameter:
+
+Extensible Choice Parameter plugin:extensible-choice-parameter:
+
+Environment Injector Plugin??
+
+Extra Columns Plugin:extra-columns:
+
+Git Changelog:git-changelog:
+
+Git Parameter Plug-In:git-parameter:
+
+GitHub Authentication plugin??
+
+Groovy:groovy:
+
+Groovy Postbuild:groovy-postbuild:
+
+HTML Publisher plugin:htmlpublisher:
+
+Hudson Post build task:postbuild-task:
+
+Icon Shim Plugin:icon-shim:
+
+Job Configuration History Plugin:jobConfigHistory:
+
+Job Generator:jobgenerator:
+
+Kubernetes plugin:kubernetes:
+
+Modern Status:modernstatus:
+
+Monitoring:monitoring:
+
+Multiple SCMs plugin:multiple-scms:
+
+Notification plugin:notification:
+
+PostBuildScript Plugin:postbuildscript:
+
+Project Description Setter:project-description-setter:
+
+Rebuilder:rebuild:
+
+Role-based Authorization Strategy:role-strategy:
+
+Run Condition Plugin:run-condition:
+
+Slack Notification Plugin:slack:
+
+Sectioned View Plugin:sectioned-view:
+
+Timestamper:timestamper:
+
+Throttle Concurrent Builds Plug-in:throttle-concurrents:
+
+user build vars plugin:build-user-vars-plugin:
+
