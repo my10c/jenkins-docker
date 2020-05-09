@@ -31,15 +31,17 @@ start/stop/status of the container : make |start|stop|status
 
 
 ### Plugins
-To add, remove plugins: exit the file plugins.txt
+To add, remove plugins: edit the file plugins.txt
 The syntax is : directory-name-at-jenkins-plugins-site:version-of-the plugin
 
 To see the correct name, remember the name of the plugin is not (most of the time)
-teh same name of the plugin location.
+the same name of the plugin location. Please note that plugin from the opensource
+might not be compatible with Cloudbees, which will cause jenkin not to start.
 
 For opensource location: http://updates.jenkins-ci.org/download/plugins
 
 For Cloudbees location: http://jenkins-updates.cloudbees.com/download/plugins
+
 
 
 Enjoy
